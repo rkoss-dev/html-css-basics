@@ -72,7 +72,7 @@ body {
 
 .hero img {
   border-radius: 10px;
-  max-width: 50%;
+  max-width: 35%;
 }
 
 .projects {
@@ -111,7 +111,7 @@ body {
   text-align: center;
 }
 
-.projects img{
+.projects img {
   width: 100%;
 }
 
